@@ -8,5 +8,5 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFEFFFF</color>
     <color name="maroon">#500000</color>
-    <color name="barf_green">#5b6236</color>
+    <color name="green_complement">#5b6236</color>
 </resources>
