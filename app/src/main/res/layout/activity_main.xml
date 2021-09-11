@@ -5,21 +5,5 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#500000"
-    tools:context=".MainActivity">
-
-    <Switch
-        android:id="@+id/switch2"
-        android:layout_width="258dp"
-        android:layout_height="72dp"
-        android:showText="true"
-        android:text="Enable"
-        android:textColor="#FFFFFF"
-        android:textColorHint="#000000"
-        android:textOff="Disable"
-        android:textOn="Enable"
-        android:textSize="34sp"
-        android:thumbTint="#FFFFFF"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        tools:layout_editor_absoluteY="25dp" />
-</androidx.constraintlayout.widget.ConstraintLayout>
+    tools:context=".MainActivity"
+    />
