@@ -27,7 +27,7 @@ import android.widget.EditText;
 import android.widget.ProgressBar;
 import android.widget.Toast;
 
-public class GetCurrentLocation extends Activity
+public class GetCurrentLocation extends MainActivity
         implements OnClickListener {
 
     private LocationManager locationMangaer=null;
