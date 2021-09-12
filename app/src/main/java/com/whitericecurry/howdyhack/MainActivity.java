@@ -1,6 +1,7 @@
 package com.whitericecurry.howdyhack;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.fragment.app.FragmentActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -65,7 +66,7 @@ public class MainActivity extends AppCompatActivity
 
     private void connected()
     {
-        /*// Play a playlist
+        // Play a playlist
         mSpotifyAppRemote.getPlayerApi().play("spotify:playlist:37i9dQZF1DX2sUQwD7tbmL");
 
         // Subscribe to PlayerState
@@ -76,6 +77,9 @@ public class MainActivity extends AppCompatActivity
                     if (track != null) {
                         Log.d("MainActivity", track.name + " by " + track.artist.name);
                     }
-                });*/
+                });
     }
 }
+
+
+
