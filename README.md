@@ -4,7 +4,7 @@ This project was developed as a part of the Texas A&M Howdy Hack hackathon in 20
 
 The main idea behind this app was to play a specific genre playlist depending on your location of the Texas A&M - College Station campus. Although we didn't finish, we managed to get proper Spotify authentication and connection that played a specified playlist and gave the user all of the normal functionalities, such as skipping, pausing, etc.
 
-### Issues
+### Problems Encounted & Solutions
 
 The primary issues we had during development involved Google Maps API being paid, and the way Spotify stores its music.
 
